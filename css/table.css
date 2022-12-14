@@ -1,0 +1,24 @@
+header .header--logo {
+    width: 220px;
+}
+
+.tables-monedas-comisiones {
+    justify-content: center;
+    overflow-x: unset
+}
+
+main .batata--ventajas {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(2, 168px);
+    justify-items: center;
+    gap: 20px;
+}
+
+.footer--links {
+    font-size: 2rem;
+
+}
+
+.planes--suscripcion {
+    overflow-x: unset;
+}
